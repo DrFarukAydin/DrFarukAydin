@@ -17,7 +17,7 @@ Check out my<a href="https://github.com/DrFarukAydin/data-science-portfolio"> Da
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?raw=true" width="320" height="320"/>
 <br>
 
-**Contacts**
+**Contact**
  
 <a href="https://www.linkedin.com/in/faruk-aydin-0350a459/"><img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> LinkedIn</a> 
 
