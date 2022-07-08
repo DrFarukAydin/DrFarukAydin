@@ -19,11 +19,10 @@ Check out my<a href="https://github.com/DrFarukAydin/data-science-portfolio"> Da
 
 **Contacts**
  
-<a href="https://www.linkedin.com/in/faruk-aydin-0350a459/"><img align="left"  width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> LinkedIn</a> 
+<a href="https://www.linkedin.com/in/faruk-aydin-0350a459/"><img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> LinkedIn</a> 
+
  <br>
 
-<img align="left" alt="Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/> farukaydin21@gmail.com
- <br>
 
 <br>
 
