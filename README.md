@@ -1,13 +1,16 @@
 ### Hi there 👋
 
 I'm **Omer Faruk Aydin**, currently an academic at Turkish-German University. I am an engineer with a strong background in Mathematics, Statistics and Analytical Fields and mostly focused on Data Science. My MSc and PhD topics cover Intelligent Transportation, Traffic Data Analysis, Optimization and Statistical Analysis. I am currently working with data for mostly academic purposes. Furthermore, I create crypto trading bots as a hobby. 
+
+<br>
 Check out my<a href="https://github.com/DrFarukAydin/data-science-portfolio"> Data Science Portfolio</a> that contains some of my works in the field of:
+<br><br>
 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Data Research, Data Cleaning and Visualization** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/data-visualization-tableau">**Data Visualization (Tableau)** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Machine Learning** <a>
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Statistical Analysis** <a>
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Financial Analysis, Technical Indicators** <a>
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Financial Analysis & Technical Indicators** <a>
 
 
 
