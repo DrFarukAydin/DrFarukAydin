@@ -6,7 +6,7 @@ I'm **Omer Faruk Aydin**, currently an academic at Turkish-German University. I 
 Check out my<a href="https://github.com/DrFarukAydin/data-science-portfolio"> Data Science Portfolio</a> that contains some of my works in the field of:
 <br><br>
 
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Data Research and Data Cleaning ** <a> 
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Data Research and Data Cleaning** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/data-visualization-tableau">**Data Visualization (Tableau)** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/data-visualization-python-jupyter">**Data Visualization (Jupyter Notebook)** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Machine Learning** <a>
