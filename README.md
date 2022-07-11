@@ -10,7 +10,7 @@ Check out my<a href="https://github.com/DrFarukAydin/data-science-portfolio"> Da
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/data-visualization-tableau">**Data Visualization (Tableau)** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/data-visualization-python-jupyter">**Data Visualization (Jupyter Notebook)** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Machine Learning** <a>
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Statistical Analysis** <a>
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/statistical-analysis">**Statistical Analysis** <a>
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio">**Financial Analysis & Technical Indicators** <a>
 
 
