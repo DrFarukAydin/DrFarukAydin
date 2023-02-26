@@ -3,15 +3,16 @@
 I'm **Omer Faruk Aydin**, currently an academic at Turkish-German University. I am an engineer with a strong background in Mathematics, Statistics and Analytical Fields and mostly focused on Data Science. My MSc and PhD topics cover Intelligent Transportation, Traffic Data Analysis, Optimization and Statistical Analysis. I am currently working with data for mostly academic purposes. Furthermore, I create crypto trading bots as a hobby. 
 
 <br>
-Check out my<a href="https://github.com/DrFarukAydin/data-science-portfolio"> Data Science Portfolio</a> that contains some of my works in the field of:
+Check out my<a href="https://github.com/DrFarukAydin/data-science-portfolio"> Data Science Portfolio</a><br>
+Here are some selected works:
 <br><br>
 
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/data-collection-merging-and-cleaning">**Data Research and Data Cleaning** <a> 
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/data-visualization-tableau">**Data Visualization (Tableau)** <a> 
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/data-visualization-python-jupyter">**Data Visualization (Jupyter Notebook)** <a> 
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/machine-learning">**Machine Learning** <a>
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/statistical-analysis">**Statistical Analysis** <a>
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/tree/main/financial-tools">**Financial Analysis & Technical Indicators** <a>
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_fraud.ipynb">**Fraud Detection in Insurance Claims** <a> 
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/regression-wind-turbine.ipynb">**Wind Turbine Energy Output Forecast** <a> 
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/statistical-analysis/mobility-statistical-tests.ipynb">**Statistical Tests for Comparison** <a> 
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/mobility-cluster.ipynb">**Clustering Countries to understand mobility beaviour during COVID-19 Pandemic** <a>
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/NLP.ipynb">**NLP for scoring job ads and CV compatibility** <a>
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/data-cleaning-for-hr-classification.ipynb">**Data Cleaning with Human Intelligence for HR** <a>
 
 
 
