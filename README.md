@@ -8,6 +8,7 @@ Here are some selected works:
 <br><br>
 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_fraud.ipynb">**Fraud Detection in Insurance Claims** <a> 
+ - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_customer_segmentation.ipynb">**Customer Segmentation for Life Insurance** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/regression-wind-turbine.ipynb">**Wind Turbine Energy Output Forecast** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/statistical-analysis/mobility-statistical-tests.ipynb">**Statistical Tests for Comparison** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/mobility-cluster.ipynb">**Clustering Countries to understand mobility beaviour during COVID-19 Pandemic** <a>
