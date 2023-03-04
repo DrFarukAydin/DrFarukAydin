@@ -12,7 +12,7 @@ Here are some selected works:
   - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_predict_charges.ipynb">**Predict Insurance Charges** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/regression-wind-turbine.ipynb">**Wind Turbine Energy Output Forecast** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/statistical-analysis/mobility-statistical-tests.ipynb">**Statistical Tests for Comparison** <a> 
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/mobility-cluster.ipynb">**Clustering Countries to understand mobility beaviour during COVID-19 Pandemic** <a>
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/mobility-cluster.ipynb">**Clustering Countries to understand mobility behavior during COVID-19 Pandemic** <a>
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/NLP.ipynb">**NLP for scoring job ads and CV compatibility** <a>
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/data-cleaning-for-hr-classification.ipynb">**Data Cleaning with Human Intelligence for HR** <a>
 <br><br>
