@@ -15,7 +15,14 @@ Here are some selected works:
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/mobility-cluster.ipynb">**Clustering Countries to understand mobility beaviour during COVID-19 Pandemic** <a>
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/NLP.ipynb">**NLP for scoring job ads and CV compatibility** <a>
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/data-cleaning-for-hr-classification.ipynb">**Data Cleaning with Human Intelligence for HR** <a>
-
+<br><br>
+ 
+ Here are my **interactive Tableau Dasboards**:
+ - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/InsuranceFraudsDashboard/Dashboard1?publish=yes">**Insurance Frauds Dashboard** <a> 
+ - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/CustomerAnalysis_16777789488520/Dashboard">**Customer Sales Analysis Dashboard** <a> 
+ - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/COVID19_Mobility/FuelPrice">**Mobility during COVID19 Pandemic Analysis** <a> 
+ - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/Mortalityvs_FertilityintheWorld/mortality_fertility">**Mortality vs. Fertility Analysis** <a> 
+<br><br>
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?raw=true" width="320" height="320"/>
