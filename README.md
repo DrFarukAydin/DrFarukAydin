@@ -2,6 +2,8 @@
 
 I'm **Omer Faruk Aydin**, currently an academic at Turkish-German University. I am an engineer with a strong background in Mathematics, Statistics and Analytical Fields and mostly focused on Data Science. My MSc and PhD topics cover Intelligent Transportation, Traffic Data Analysis, Optimization and Statistical Analysis. I am currently working with data for mostly academic purposes. Furthermore, I create crypto trading bots as a hobby. 
 
+<img align="right" alt="GIF" src="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/mortality.gif" width="320" height="320"/>
+<br>
 <br>
 Check out my<a href="https://github.com/DrFarukAydin/data-science-portfolio"> Data Science Portfolio</a><br>
 Here are some selected works:
@@ -10,11 +12,11 @@ Here are some selected works:
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_fraud.ipynb">**Fraud Detection in Insurance Claims** <a> 
  - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_customer_segmentation.ipynb">**Customer Segmentation for Life Insurance** <a> 
   - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_predict_charges.ipynb">**Predict Insurance Charges** <a> 
+ - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_life_expectancy.ipynb">**Life Expectancy Analysis** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/regression-wind-turbine.ipynb">**Wind Turbine Energy Output Forecast** <a> 
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/statistical-analysis/mobility-statistical-tests.ipynb">**Statistical Tests for Comparison** <a> 
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/mobility-cluster.ipynb">**Clustering Countries to understand mobility behavior during COVID-19 Pandemic** <a>
 - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/NLP.ipynb">**NLP for scoring job ads and CV compatibility** <a>
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/data-cleaning-for-hr-classification.ipynb">**Data Cleaning with Human Intelligence for HR** <a>
+
 <br><br>
  
  Here are my **interactive Tableau Dasboards**:
@@ -25,7 +27,6 @@ Here are some selected works:
 <br><br>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?raw=true" width="320" height="320"/>
 <br>
 
 **Contact**
