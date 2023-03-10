@@ -20,7 +20,8 @@ Here are some selected works:
 <br><br>
  
  Here are my **interactive Tableau Dasboards**:
- - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/InsuranceFraudsDashboard/Dashboard1?publish=yes">**Insurance Frauds Dashboard** <a> 
+ - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/InsuranceFraudsDashboard/Dashboard1?publish=yes">**Insurance Frauds Dashboard** <a>
+ - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/DeathsinUSA2015/Dashboard1?publish=yes">**Survival & Deaths in USA** <a>
  - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/CustomerAnalysis_16777789488520/Dashboard">**Customer Sales Analysis Dashboard** <a> 
  - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/COVID19_Mobility/FuelPrice">**Mobility during COVID19 Pandemic Analysis** <a> 
  - <a href="https://public.tableau.com/app/profile/omer.faruk.aydin/viz/Mortalityvs_FertilityintheWorld/mortality_fertility">**Mortality vs. Fertility Analysis** <a> 
