@@ -9,7 +9,8 @@ Check out my<a href="https://github.com/DrFarukAydin/data-science-portfolio"> Da
 Here are some selected works:
 <br><br>
 
-- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_fraud.ipynb">**Fraud Detection in Insurance Claims** <a> 
+- <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/vehicle_insurance_prediction.ipynb">**Vehicle Insurance Charge Prediction** <a> 
+ - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_fraud.ipynb">**Fraud Detection in Insurance Claims** <a> 
  - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_customer_segmentation.ipynb">**Customer Segmentation for Life Insurance** <a> 
   - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_predict_charges.ipynb">**Predict Insurance Charges** <a> 
  - <a href="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_life_expectancy.ipynb">**Life Expectancy Analysis** <a> 
