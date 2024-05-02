@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Omer Faruk Aydin**, currently an academic at Turkish-German University. I am an engineer with a strong background in Mathematics, Statistics and Analytical Fields and mostly focused on Data Science. My MSc and PhD topics cover Intelligent Transportation, Traffic Data Analysis, Optimization and Statistical Analysis. I am currently working with data for mostly academic purposes. Furthermore, I create crypto trading bots as a hobby. 
+I'm **Omer Faruk Aydin**, currently working as a Data Analyst in Nürnberg, Germany, after 7 years of academic adventure at Engineering Faculty of Turkish-German University. I am an engineer with a strong background in Mathematics, Statistics and Analytical Fields and mostly focused on Data Science. My MSc and PhD topics cover Intelligent Transportation, Traffic Data Analysis, Optimization and Statistical Analysis. I am currently working in half data engineering, half data science, half Python programming. Furthermore, I create crypto trading bots as a hobby. 
 
 <img align="right" alt="GIF" src="https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/mortality.gif" width="320" height="320"/>
 <br>
@@ -49,6 +49,7 @@ Here are some selected works:
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4"></code>
 
 
 
